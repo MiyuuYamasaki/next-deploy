@@ -39,7 +39,7 @@ export default function Home() {
         />
       </div>
 
-      <h1>Hello World 20240607</h1>
+      <h1 className="font-bold text-5xl text-red-700">Hello World 20240607</h1>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
